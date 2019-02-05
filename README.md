@@ -25,3 +25,5 @@ Paste the text below into a project and use ONLY javascript to complete the ques
 3) Change the color of the h1 statement to blue.
 
 4) Change the color of the last p tag to yellow.
+<hr>
+0 points. The program doesn't work. There's no HTML file for a browswer to run.
